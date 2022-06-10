@@ -1,4 +1,5 @@
 // https://9cguide.appspot.com/a_code-exor.html
+// 今回作った暗号の中で3番目に強い
 #include <stdio.h>
 
 /* 使用法 
