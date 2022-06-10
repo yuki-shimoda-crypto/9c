@@ -102,5 +102,6 @@ int main(void)
 	printf("%d\n", b);	
 	SWAP5(int, a, b);
 	printf("%d\n", a);	
-	printf("%d\n", b);	
+	printf("%d\n", b);
+	return (0);
 }
